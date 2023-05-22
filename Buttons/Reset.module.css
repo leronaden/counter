@@ -1,0 +1,12 @@
+.reset {
+    color: black;
+    background-color: lightpink;
+    border-radius: 20px ;
+    margin: 30px;
+    width: 80px;
+    height: 40px;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 20px;
+}
+

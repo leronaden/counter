@@ -1,0 +1,15 @@
+.increment {
+    color: black;
+    background-color: lightpink;
+    border-radius: 30px;
+    margin: 30px;
+    width: 80px;
+    height: 40px;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.increment:hover {
+    color: white;
+}
